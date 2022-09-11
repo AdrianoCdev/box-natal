@@ -15,9 +15,9 @@ body {
   .gift-box {
     --gift-box-color: #a22ae7;
     --gift-box-edge-color: #310433;
-    --wrap-color: rgb(255, 242, 0);
-    --wrap-ribbon-color: rgb(255, 242, 0);
-    --wrap-top-color: rgb(255, 242, 0);
+    --wrap-color: #281769;
+    --wrap-ribbon-color: #281769;
+    --wrap-top-color: #281769;
   
     width: 200px;
     height: 200px;
@@ -200,7 +200,7 @@ body {
     text-align: center;
     margin-top: 80px;
     font-size: 40px;
-    color: rgb(255, 196, 0);
+    color: rgb(255, 165, 0);
     text-shadow: 
                -1px -1px 0px rgba(0, 0, 0, 0.8), 
                -1px 1px 0px rgba(0, 0, 0, 0.8),                    
